@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Contact Us</title>
+		<style>
+			div{
+				border:5px solid blue;
+				margin-top:10px;
+			}
+		</style>
+	</head>
+	<body bgcolor=#99ff00>
+		
+		<h1 style="text-align:center;font-size:50px;"><u>Contact Us</u></h1>
+		<a href="home.html" ><img src="home.png" width=50 height=50 style="margin-right:0px;"></a>
+		<div>
+			<h2>Corporate Office</h2>
+			<pre>
+				Address:2nd Floor, Durga Bhavani Plaza, Satyam Theatre Road, Ameerpet, Hyderabad, Telangana 500016
+				Phone: 040-23746666
+				Email:info@nareshit.com
+				Business Hours
+				Monday - Sunday 6.30 am to 9.30 pm
+			</pre>
+		</div>
+		<div>
+			<h2>Chennai Office</h2>
+			<pre>
+				Address:2nd Floor Plot No.172 & 173, Above Axis Bank, Behind PTC Bus Stop, Thoraipakkam, Chennai, Tamil Nadu 600097
+				Phone: 095660 42345
+				Email:chennai@nareshit.com
+				Business Hours
+				Monday - Sunday 7am to 9pm
+			</pre>
+		</div>		
+		<div>
+			<h2>Vijayawada Office</h2>
+			<pre>
+				Address:1st floor, Manoranjan Complex, MG Road,, Sriram Nagar, Vijayawada, Andhra Pradesh 520010.
+				Phone: +91-92932 26789
+				Email:Vijayawada@nareshit.com
+				Business Hours
+				Monday - Sunday 7am to 9pm
+			</pre>
+		</div>
+		<div>
+			<h2>for Online Training</h2>
+			<pre>
+				India Office:2nd Floor, Durga Bhavani Plaza, Satyam Theatre Road, Ameerpet, Hyderabad, Telangana 500016
+				Business Hours
+				Phone: +91-8179191999
+				Email:online@nareshit.com
+				Monday - Sunday 7am to 9pm
+			</pre>
+		</div>
+		<div>
+			<h2>USA Office</h2>
+			<pre>
+				5007 Arbor View Pkwy NW Acworth, GA, 30101
+				Phone:+1 404-232-9879, +1 248-522-6925
+				Email:us.training@nareshit.com
+			</pre>
+		</div>
+		
+	</body>
+</html>
